@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "title": "TAT Band",
+        "image": "/images/thumbnails/thumbnail21.jpg",
+        "date": "April 11, 2022",
+        "description": "Six (6) New Diaspora Songs by TAT Band"
+    },
+
+    {
+        "id": 2,
+        "title": "Bottom-Up plan",
+        "image": "/images/thumbnails/thumbnail2.png",
+        "date": "April 09, 2022",
+        "description": "Ndara B Community Kshs 10 Billion Bottom-Up Plan"
+    },
+
+    {
+        "id": 3,
+        "title": "Material plan",
+        "image": "/images/thumbnails/thumbnail20.jpg",
+        "date": "December 31, 2021",
+        "description": "Kshs 3 Billion Ndara B Co. Material Plan For DUT"
+    },
+
+    {
+        "id": 4,
+        "title": "Finance System",
+        "image": "/images/thumbnails/thumbnail23.jpg",
+        "date": "November 01, 2021",
+        "description": "DUT Credit Ltd. Finance System For Diaspora Remittances"
+    }     
+
+]

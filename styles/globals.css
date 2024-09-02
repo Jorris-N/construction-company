@@ -1,0 +1,184 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    color: white;
+    background: black;
+  }
+}
+/* web navigation */
+#nav-item:hover #nav-border{
+  @apply scale-x-100 bg-red-500 transition duration-700;
+ }
+
+/* HomPage Banner Section */
+.homeBanner{
+  height: 580px;
+  background-image: url(/images/home/banner.jpg);
+  background-repeat: no-repeat;
+}
+.homeBanner .bannerOverlay{
+  height: 580px;
+
+}
+
+/*    parallax banner*/
+.parallaxBanner{
+  height: 420px;
+}
+.parallaxBanner .bannerOverlay{
+  height: 420px;
+
+}
+
+.careersBanner{
+  height: 620px;
+}
+.careersBanner .bannerOverlay{
+  height: 620px;
+
+}
+
+.homeBanner .bannerOverlay, .aboutBanner .bannerOverlay{
+  background: rgba(15, 15, 15, .4);
+}
+#project-sector-card{
+  width: 289px;
+  background: rgba(0,0,0, .4);
+}
+
+#bannerCta:hover #right-arrow{
+  @apply scale-110 shadow transition duration-500 bg-stone-600;
+}
+#newsHeader:hover #newsImage{
+  @apply scale-150 transition duration-700 ease-in-out;
+}
+#newsLink:hover #right-arrow{
+  @apply translate-x-1 transition duration-500 ease-in-out;
+}
+
+#newsBar::-webkit-scrollbar{
+  width: 0;
+}
+
+#newsBar::-webkit-scrollbar-thumb{
+  @apply bg-transparent;
+}
+
+#Header:hover #ImageScaling{
+  @apply scale-125 shadow transition duration-700 ease-in-out;
+}
+
+.parallaxBanner{
+  background-image: url(/images/home/parallax2.jpg);
+
+  background-repeat: no-repeat;
+}
+
+.parallaxBanner .bannerOverlay, .careersBanner{
+  background: rgba(15, 15, 15, .4);
+}
+
+#card-container:hover #product{
+  @apply hidden scale-y-0 opacity-0;
+}
+
+#NewsCard{
+  display: flex;
+  flex-direction: column-reverse;
+  box-sizing: border-box;
+}
+
+.careersBanner{
+  background-image: url(/images/home/careers2.jpg);
+  background-repeat: no-repeat;
+}
+
+.aboutBanner{
+  background-image: url(/images/about/extraction.jpg);
+  background-repeat: no-repeat;
+}
+#productsBanner{
+  background-image: url(/images/products/banner.jpg);
+  background-repeat: no-repeat;
+}
+.contactBanner{
+  background-image: linear-gradient(rgba(0,0,0,0.527), rgba(0,0,0,0.5)), url(/images/contacts/phonecall.jpg);
+  background-repeat: no-repeat;
+}
+#overlay{
+  @apply bg-white scale-y-0;
+}
+#card-container:hover #overlay{
+  opacity: 1 !important;
+  @apply scale-y-100;
+}
+#card-container:hover #product{
+  @apply hidden scale-y-0 opacity-0;
+}
+#NewsCard{
+  display: flex;
+  flex-direction: column-reverse;
+  box-sizing: border-box;
+}
+
+.owl-nav button.owl-prev {
+  left: 0;
+}
+.owl-nav button.owl-next {
+  right: 0;
+}
+.owl-carousel .owl-prev.disabled,
+  .owl-carousel .owl-next.disabled{
+    pointer-events: none;
+    opacity: 0.2;
+  }
+.owl-nav button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    margin: 0px -28px;
+    
+}
+.owl-nav span {
+    font-size: 45px;    
+    position: relative;
+    top: -5px;
+    padding: 10px;
+    color: rgba(220, 38, 38);
+}
+.owl-nav button:focus {
+    outline: none;
+}
+.rpb-root{display:inline-flex; flex-direction:column}
+.rpb-root ul{flex-wrap:wrap;list-style:none;margin:0;padding:0}
+.rpb-item,.rpb-root ul{display:flex;justify-content:center}
+.rpb-item{align-items:center;appearance:none;background:#fff;border:0;border-radius:.375rem;box-shadow:0 1px 1px rgba(0,0,0,.09);cursor:pointer;font-size:1rem;height:2.4rem;margin-left:.25rem;margin-right:.25rem;min-width:2.4rem;outline:2px solid transparent;outline-offset:2px;padding-left:.75rem;padding-right:.75rem;position:relative;transition:all .15s ease;user-select:none;white-space:nowrap;width:auto;will-change:transform}
+.rpb-item--disabled{opacity:.4}
+.rpb-item:hover{background-color:  rgba(220, 38, 38); color: #fff;} 
+.rpb-item--active{background-color: rgba(220, 38, 38);color:#fff}
+.rpb-progress{background-color:#7597ff;border-radius:5px;box-shadow:0 0 4px rgba(127,177,255,.6);height:3px;margin:1rem 0;max-width:100%;transition:width .2s ease;width:0}
+.rpb-go-item{-webkit-padding-end:.75rem;-webkit-padding-start:.75rem;align-items:center;background-color:#fff;border-radius:.375rem;box-shadow:0 2px 1px rgba(0,0,0,.04);display:flex;font-size:1rem;height:2.4rem;padding-inline-end:.75rem;padding-inline-start:.75rem;width:70px}
+.rpb-go-item input{border:1px solid rgba(0,0,0,.1);border-radius:4px;height:20px;width:100%}

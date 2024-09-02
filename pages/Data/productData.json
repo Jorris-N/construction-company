@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "title": "Sand",
+        "description": "Extracted from the rivers and streams bordering and inside our land this product will be applied toward manufacturing building products, buildings construction and road construction.",
+        "image": "/images/thumbnails/thumbnail1.png"
+    },
+    {
+        "id": 2,
+        "title": "Ballast",
+        "description": "Produced from the deposits in the Ndara B Community land or sourced from other quarries. The company shall supply Diaspora University Town project and other projects with stones for roads, products manufacturing and building.",
+        "image": "/images/thumbnails/thumbnail13.png"
+    },
+    {
+        "id": 3,
+        "title": "Marram",
+        "description": "Produced from the deposits in the Ndara B Community land or sourced from other quarries. The company shall supply Diaspora University Town project and other projects with marram for roads, products manufacturing and building.",
+         "image": "/images/thumbnails/thumbnail6.png"
+    },
+    {
+        "id": 4,
+        "title": "Hardcore Rocks",
+        "description": "Produced from the deposits in the Ndara B Community land or sourced from other quarries. The company shall supply Diaspora University Town project and other projects with marram for roads, products manufacturing and building.",
+        "image": "/images/thumbnails/thumbnail9.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Timber",
+        "description": "Produced through planting and harvesting of trees in different areas of the 5,500 acres, the Company will produce and supply timber for building and making furniture.",
+        "image": "/images/thumbnails/thumbnail12.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Building Stones",
+        "description": "Produced from the deposits in the Ndara B Community land or sourced from other quarries. The company shall supply Diaspora University Town project and other projects with building stones for buildings construction.",
+        "image": "/images/thumbnails/thumbnail15.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Pavers",
+        "description": "Manufactured by the company, the pavers shall be supplied to Diaspora University Town project and other projects for construction of buildings, walkways and roads.",
+        "image": "/images/thumbnails/thumbnail17.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Terrazzo",
+        "description": "Produced or sourced from Ndara B comminity land and other deposits. The company shall supply Diaspora University Town projec and other projects ballast for roads, products manufacturing and building",
+        "image": "/images/thumbnails/thumbnail10.png"
+    },
+    {
+        "id": 9,
+        "title": "Marble",
+        "description": "Produced or sourced from Ndara B Community land and other deposits. The company shall supply Diaspora University Town project and other projects with marble for building.",
+        "image": "/images/thumbnails/thumbnail9.png"
+    },
+    {
+        "id": 10,
+        "title": "fencing Poles",
+        "description": "Manufactured by the company, the fencing poles shall be supplied to Diaspora University Town project and other projects for fencing plots.",
+        "image": "/images/thumbnails/1110863-15614667968079600-933x700.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Concrete Panels",
+        "description": "Manufactured by the company, the Concrete Panels shall be supplied to Diaspora University Town project and other projects for construction of buildings and fencing walls.",
+        "image": "/images/thumbnails/istockphoto-104430341-612x612.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Concrete Slabs",
+        "description": "Manufactured by the company, the Concrete Panels shall be supplied to Diaspora University Town project and other projects for construction of buildings and walking paths.",
+        "image": "/images/thumbnails/istockphoto-136623919-612x612.jpg"
+    },
+    {
+        "id": 13,
+        "title": "Concrete Columns",
+        "description": "Manufactured by the company, the Concrete Columns shall be supplied to Diaspora University Town project and other projects for construction of buildings.",
+        "image": "/images/thumbnails/precast-column.jpg"
+    },
+    {
+        "id": 14,
+        "title": "Concrete Beams",
+        "description": "Manufactured by the company, the Concrete Beams shall be supplied to Diaspora University Town project and other projects for construction of buildings.",
+        "image": "/images/thumbnails/35-03-Precast-Beams-Columns-General.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Culverts",
+        "description": "Manufactured by the company, the Culverts shall be supplied to Diaspora University Town project and other projects for construction of stormwater management system.",
+        "image": "/images/thumbnails/thumbnail18.jpg"
+    },
+    {
+        "id": 16,
+        "title": "Curbs",
+        "description": "Manufactured by the company, the curbs shall be supplied to Diaspora University Town project and other projects for construction of roads borders.",
+        "image": "/images/thumbnails/9.jpg"
+    },
+    {
+        "id": 17,
+        "title": "Retainers",
+        "description": "Manufactured by the company, the retainers shall be supplied to Diaspora University Town project and other projects for construction of retainer walls for environmental sustainability.  ",
+        "image": "/images/thumbnails/L-Blocks-1-1.jpg"
+    },
+    {
+        "id":18,
+        "title": "Limestone Tiles",
+        "description": "Manufactured by the company, the tiles shall be supplied to Diaspora University Town project and other projects for construction of floors, walls and other areas.",
+        "image": "/images/thumbnails/thumbnail14.png"
+    } 
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "image": "/images/thumbnails/thumbnail8.png",
+        "date": "15th Jan 2022",
+        "description":"Commencing sand extraction at the Ndara B Community and DUT Project Site",
+        "link":"DUT project"
+    },
+    {
+        "id": 2,
+        "image": "/images/thumbnails/thumbnail4.png",
+        "date": "15th Jan 2022",
+        "description":"Commencing sand extraction at the Ndara B Community and DUT Project Site",
+        "link":"DUT project"
+    },
+    {
+        "id": 3,
+        "image": "/images/thumbnails/thumbnail7.png",
+        "date": "15th Jan 2022",
+        "description":"Commencing sand extraction at the Ndara B Community and DUT Project Site",
+        "link":"DUT project"
+    },
+    {
+        "id": 4,
+        "image": "/images/about/director.png",
+        "date": "15th Jan 2022",
+        "description":"Commencing sand extraction at the Ndara B Community and DUT Project Site",
+        "link":"DUT project"
+    },
+    {
+        "id": 5,
+        "image": "/images/thumbnails/thumbnail16.jpg",
+        "date": "15th Jan 2022",
+        "description":"Commencing sand extraction at the Ndara B Community and DUT Project Site",
+        "link":"DUT project"
+    },
+    {
+        "id": 6,
+        "image": "/images/thumbnails/thumbnail9.png",
+        "date": "15th Jan 2022",
+        "description":"Commencing sand extraction at the Ndara B Community and DUT Project Site",
+        "link":"DUT project"
+    }
+
+]
